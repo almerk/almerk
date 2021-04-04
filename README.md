@@ -1,6 +1,6 @@
 # Hello 👋 
 
-My name is Merkuliev Aleksey, and usually I introduce myself as software engineer from Moscow.
+My name is Merkuliev Aleksey, and usually I introduce myself as software developer from Moscow.
 
 ## Preffered technologies, frameworks and languages:
  
